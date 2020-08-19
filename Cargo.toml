@@ -1,0 +1,11 @@
+[package]
+name = "cdd_to_gff3"
+version = "0.1.0"
+authors = ["Ryan Moore <moorer@udel.edu>"]
+edition = "2018"
+
+[dependencies]
+bitflags = "=1.0.4" # to compile clap/structopt
+structopt = "0.2.15"
+regex = "1"
+

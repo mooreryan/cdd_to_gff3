@@ -1,0 +1,28 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-F184227D33F5085-26E6DBB279C6E883
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-08-19T19:23:22	Run time	0:00:03:34
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >aox___seq_143	superfamily	381911	1	140	1.61796e-90	265.611	cl00264	Ferritin_like superfamily	N	 - 
+Q#2 - >aox_full___seq_1	specific	215265	1	319	0	550.659	PLN02478	PLN02478	 - 	cl00264
+Q#3 - >aox_full___seq_2	specific	215265	10	338	0	554.896	PLN02478	PLN02478	 - 	cl00264
+Q#4 - >aox_full___seq_3	specific	215265	6	326	0	565.297	PLN02478	PLN02478	 - 	cl00264
+Q#5 - >aox_full___seq_4	specific	215265	13	330	0	564.526	PLN02478	PLN02478	 - 	cl00264
+Q#6 - >aox_full___seq_5	specific	215265	56	312	0	503.665	PLN02478	PLN02478	 - 	cl00264
+Q#7 - >aox_full___seq_6	superfamily	381911	1	169	4.76613e-138	387.335	cl00264	Ferritin_like superfamily	N	 - 
+Q#8 - >aox_full___seq_7	specific	215265	10	348	0	552.585	PLN02478	PLN02478	 - 	cl00264
+Q#9 - >aox_full___seq_8	specific	215265	5	358	0	577.238	PLN02478	PLN02478	 - 	cl00264
+Q#10 - >aox_full___seq_9	specific	215265	24	318	0	544.496	PLN02478	PLN02478	 - 	cl00264
+Q#11 - >aox_full___seq_10	specific	215265	5	329	0	618.069	PLN02478	PLN02478	 - 	cl00264
+Q#12 - >aox_full___seq_11	superfamily	381911	1	170	3.83739e-140	392.727	cl00264	Ferritin_like superfamily	N	 - 
+Q#13 - >aox_full___seq_12	specific	215265	6	325	0	619.995	PLN02478	PLN02478	 - 	cl00264
+Q#14 - >aox_full___seq_13	specific	215265	19	353	0	634.633	PLN02478	PLN02478	 - 	cl00264
+Q#15 - >aox_full___seq_14	specific	215265	1	318	0	601.506	PLN02478	PLN02478	 - 	cl00264
+Q#16 - >aox_full___seq_15	specific	215265	23	354	0	635.018	PLN02478	PLN02478	 - 	cl00264
+Q#17 - >aox_full___seq_16	specific	215265	35	331	0	515.221	PLN02478	PLN02478	 - 	cl00264
+Q#18 - >aox_full___seq_17	specific	215265	35	346	0	534.481	PLN02478	PLN02478	 - 	cl00264
+Q#19 - >aox_full___seq_18	specific	215265	9	335	0	588.409	PLN02478	PLN02478	 - 	cl00264
+Q#20 - >aox_full___seq_19	specific	215265	20	344	0	566.452	PLN02478	PLN02478	 - 	cl00264
